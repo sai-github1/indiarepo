@@ -1,3 +1,4 @@
+
 india
-state: andrapradesh
-distrct:vizag
+state:telangana
+dist:vizag
